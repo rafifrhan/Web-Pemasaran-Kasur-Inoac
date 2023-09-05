@@ -1,0 +1,27 @@
+/* .banner {
+  background: url(img/ff.jpg) no-repeat center center;
+  background-size: cover;
+  background-position: 0 -300px;
+  height: 370px;
+  padding-top: 20%;
+} */
+
+.jumbotron {
+  max-width: 100%;
+  height: auto;
+  background-color: #cccdcf;
+}
+
+#products {
+  background-color: #cccdcf;
+}
+
+section {
+  padding-top: 6rem;
+}
+
+footer {
+  background-color: #052c65;
+}
+/* color: #cccdcf; */
+/* warna text #052c65 */
